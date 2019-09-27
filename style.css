@@ -1,6 +1,19 @@
-p {
-  color:blue;
+/*body{
+  background-color: blue;
 }
-h1 {
-  color:red;
+*/
+.menu{
+  background-color: red;
+  margin: auto;
+  width: 50%;
+}
+.content{
+  background-color: green;
+  margin: auto;
+  width: 50%;
+}
+.body{
+  background-color: blue;
+  width: 100%;
+  margin: auto;
 }
