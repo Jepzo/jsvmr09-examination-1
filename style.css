@@ -1,21 +1,30 @@
-/*body{
-  background-color: blue;
-}
-*/
+/* specifics for the menu class */
 .menu{
   background-color: red;
   margin: auto;
   width: 400px;
 }
+
+/* specifics for the content class */
 .content{
   background-color: green;
   margin: auto;
   width: 400px;
   height: 100%;
 }
+
+/* specifics for the body class */
 .body{
   background-color: blue;
+  background-image: url("./media/background.gif");
+  background-color: #cccccc;
   margin: auto;
   width: 100%;
   height: 100%;
+}
+
+/* mouse over link */
+a:hover {
+  color: yellow;
+  text-decoration: line-through;
 }
